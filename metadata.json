@@ -1,0 +1,6 @@
+{
+  "name": "CineScope - Movie Discovery & OTT Streaming Guide",
+  "description": "Discover movies, TV shows, and series with comprehensive details, ratings, cast, and dynamic OTT streaming availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
